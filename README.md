@@ -1,4 +1,4 @@
-# Ticket Manager v1.0 - Jednoduchá aplikace pro předprodej lístků v PHP
+# Ticket Manager v1.0 - Jednoduchá aplikace pro předprodej a tisk lístků v PHP
 
 # soubor IPpristup - definovat IP adresy stanic, které mohou do aplikace přistupovat
 # soubor tm.php - hlavní stránka aplikace, zde definovat admin heslo (default: 1596)
