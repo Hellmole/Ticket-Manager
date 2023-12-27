@@ -5,7 +5,7 @@
 # soubor heslo.php - jedná se o úvodní stránku, přes kterou se do aplikaci vstupuje
 
 # V této verzi je potřeba upravit generování kalenářních dní (jinák má každý něsíc má 31 dní)
-# Definovat podmínky vstupních polí (zakázak vkláádní znaků "´ atd.)
+# Definovat podmínky vstupních polí (zakázak vkládní znaků "´ atd.)
 
 # Aplikaci je možno libovolně upravovat, šířit....
 
