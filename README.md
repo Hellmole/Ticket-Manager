@@ -6,7 +6,7 @@
 # soubor tm.php - hlavní stránka aplikace - zde definovat admin heslo (default: 1596). Po přihlášení jako Admin můžete editovat a přidávat akce. Vstup bez přihlášení umožňuje pouze tisk lístků. 
 # soubor heslo.php - jedná se o úvodní stránku, přes kterou se do aplikaci vstupuje
 
-# V této verzi je potřeba upravit generování kalenářních dní (jinák má každý něsíc má 31 dní)
+# V této verzi je potřeba upravit generování kalenářních dní (jinak má každý něsíc 31 dní)
 # Definovat podmínky vstupních polí (zakázak vkládní znaků "´ atd.)
 
 # Aplikaci je možno libovolně upravovat, šířit....
